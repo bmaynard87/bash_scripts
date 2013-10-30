@@ -6,7 +6,7 @@ if [ -z "$1" ]; then
 	echo
 	echo "pfunc command syntax: pfunc <function>"
 	echo
-	echo "Example: func func_get_args"
+	echo "Example: pfunc func_get_args"
 	echo
 
 	exit 1
